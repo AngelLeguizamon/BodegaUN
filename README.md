@@ -12,10 +12,17 @@ En caso de Poner mal el usuario o contraseña:
 
 ---
 ## ========== Seleccionar "Agregar Producto" ==========
-img width="959" alt="image" src="https://github.com/user-attachments/assets/381947f7-799e-4e33-938d-64a3643413a1" 
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/9cca5e44-3923-496f-b49e-f95153dbbbac" />
+
 ![image](https://github.com/user-attachments/assets/0f8bac57-4e94-4b93-a233-50c30557aabe)
 
-img width="959" alt="image" src="https://github.com/user-attachments/assets/92ad9ea1-3392-451b-b6cc-529764dada27" 
+![image](https://github.com/user-attachments/assets/318261c5-18b3-4a8c-a5f0-eaabf565c474)
+
+![image](https://github.com/user-attachments/assets/654e7d9e-4492-4f74-88cc-6ca44afc2716)
+
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/f2e927d9-a535-4dbf-a203-c384d6372b4e" />
+
 
 ---
 ## ========== Seleccionar "Eliminar Producto" ==========
