@@ -1,0 +1,13 @@
+com\mycompany\bodegaun\ProductCRUD.class
+com\mycompany\bodegaun\AddProductFrame.class
+com\mycompany\bodegaun\DeleteProductFrame.class
+com\mycompany\bodegaun\Home$1.class
+com\mycompany\bodegaun\UpdateProductFrame.class
+com\mycompany\bodegaun\ProductCRUD$1.class
+com\mycompany\bodegaun\Home.class
+com\mycompany\bodegaun\ProductCRUD$2.class
+com\mycompany\bodegaun\BodegaUN.class
+com\mycompany\bodegaun\LoginFrame.class
+com\mycompany\bodegaun\LoginFrame$1.class
+com\mycompany\bodegaun\Producto.class
+com\mycompany\bodegaun\FirebaseInitializer.class
