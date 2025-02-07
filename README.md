@@ -13,7 +13,7 @@ En caso de Poner mal el usuario o contraseña:
 ---
 ## ========== Seleccionar "Agregar Producto" ==========
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/381947f7-799e-4e33-938d-64a3643413a1" />
-![Captura de pantalla 2025-02-06 225634](https://github.com/user-attachments/assets/e4106506-c9e0-4289-818b-63fa67aa94f0)
+![image](https://github.com/user-attachments/assets/6d842794-1c04-4655-a770-f240a2d7ba9b)
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/92ad9ea1-3392-451b-b6cc-529764dada27" />
 
 ---
