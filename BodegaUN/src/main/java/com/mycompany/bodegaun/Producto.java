@@ -1,6 +1,6 @@
 package com.mycompany.bodegaun;
 
-// Esta clase representa un producto de la bodega
+// Esta clase permite crear objetos tipo producto
 public class Producto {
     private String id;       // Identificador único del producto
     private String nombre;   // Nombre del producto

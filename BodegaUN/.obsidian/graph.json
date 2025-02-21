@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"src/main/Notas/Clases BodegaUN/com.mycompany.bodegaun\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"src/main/Notas/Clases BodegaUN/view\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.5,
+  "nodeSizeMultiplier": 3.0416955017301,
+  "lineSizeMultiplier": 4.07595155709343,
+  "collapse-forces": true,
+  "centerStrength": 0.261245674740484,
+  "repelStrength": 15.3287197231834,
+  "linkStrength": 1,
+  "linkDistance": 166,
+  "scale": 0.525573312220052,
+  "close": true
+}

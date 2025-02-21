@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "52483ec369780582",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d6279c27b4eaf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a0039c3b1e2335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/main/Notas/Clases BodegaUN/view/LoginFrame.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LoginFrame"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3267698bcb58f095",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1f0655f19a35158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ef0ff42d8ebac25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "212f00c9e539a5be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f9d955a5785b8be6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afdd8d41b48732e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ee47455dd2f773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5d3d73c0414ab2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/main/Notas/Clases internas/com.mycompany.bodegaun/ProductCRUD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de ProductCRUD"
+            }
+          },
+          {
+            "id": "557fee85bd53200a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/main/Notas/Clases internas/com.mycompany.bodegaun/ProductCRUD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de ProductCRUD"
+            }
+          },
+          {
+            "id": "7587b9792b312e3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "aafce4a222e70abf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "94a0039c3b1e2335",
+  "lastOpenFiles": [
+    "target/classes/view/UpdateProductFrame.class",
+    "target/classes/view/LoginFrame.class",
+    "target/classes/view/LoginFrame$2.class",
+    "target/classes/view/LoginFrame$1.class",
+    "target/classes/view/DeleteProductFrame.class",
+    "target/classes/view/Home.class",
+    "target/classes/view/Home$1.class",
+    "target/classes/view/AddProductFrame.class",
+    "target/classes/com/mycompany/bodegaun/Producto.class",
+    "target/classes/com/mycompany/bodegaun/ProductCRUD.class",
+    "target/classes/com/mycompany/bodegaun/ProductCRUD$2.class",
+    "src/main/Notas/Clases BodegaUN/com.mycompany.bodegaun/BodegaUN.md",
+    "src/main/Notas/Clases BodegaUN/view/LoginFrame.md",
+    "src/main/Notas/Clases BodegaUN/view/Home.md",
+    "src/main/Notas/Clases BodegaUN/view/DeleteProductFrame.md",
+    "src/main/Notas/Clases BodegaUN/com.mycompany.bodegaun/ProductCRUD.md",
+    "src/main/Notas/Clases externas/com.google/firebase/database/DataSnapshot.md",
+    "src/main/Notas/Clases externas/com.google/firebase/database/FirebaseDatabase.md",
+    "src/main/Notas/Clases externas/com.google/firebase/database/ValueEventListener.md",
+    "src/main/Notas/Clases externas/com.google/firebase/database/DatabaseReference.md",
+    "src/main/Notas/Clases externas/com.google/firebase/database/DatabaseError.md",
+    "src/main/Notas/Clases externas/java/util/concurrent/CountDownLatch.md",
+    "src/main/Notas/Clases externas/java/util/concurrent/ExecutionException.md",
+    "src/main/Notas/Clases externas/javax/swing/JScrollPane.md",
+    "src/main/Notas/Clases externas/javax/swing/SwingWorker.md",
+    "src/main/Notas/Clases externas/javax/swing/JTextField.md",
+    "src/main/Notas/Clases externas/javax/swing/JTable.md",
+    "src/main/Notas/Clases externas/javax/swing/JPasswordField.md",
+    "src/main/Notas/Clases externas/javax/swing/JPanel.md",
+    "src/main/Notas/Clases externas/javax/swing/JOptionPane.md",
+    "src/main/Notas/Clases externas/javax/swing/JLabel.md",
+    "src/main/Notas/Clases externas/javax/swing/JFrame.md",
+    "src/main/Notas/Clases externas/javax/swing/JButton.md",
+    "src/main/Notas/Clases externas/javax/swing/BoxLayout.md",
+    "src/main/Notas/Clases externas/javax/swing/BorderLayout.md",
+    "src/main/Notas/Clases externas/com.google/firebase/FirebaseApp.md",
+    "Sin título.canvas"
+  ]
+}

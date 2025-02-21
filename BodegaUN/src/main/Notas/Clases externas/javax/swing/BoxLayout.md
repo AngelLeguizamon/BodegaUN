@@ -1,0 +1,1 @@
+Se usa **BoxLayout** para poner los elementos visuales uno debajo del otro

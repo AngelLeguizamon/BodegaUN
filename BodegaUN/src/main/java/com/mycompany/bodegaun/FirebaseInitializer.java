@@ -10,7 +10,7 @@ public class FirebaseInitializer {
     public static void initialize() {
         try {
             // Lee el archivo de credenciales (asegúrate de que la ruta sea correcta)
-            FileInputStream serviceAccount = new FileInputStream("src/main/recursos/firebase-service-account.json");
+            FileInputStream serviceAccount = new FileInputStream("src/main/resources/firebase-service-account.json");
             
             FirebaseOptions options = new FirebaseOptions.Builder()
                 .setCredentials(GoogleCredentials.fromStream(serviceAccount))
@@ -19,6 +19,7 @@ public class FirebaseInitializer {
                 
             FirebaseApp.initializeApp(options);
             System.out.println("Firebase se ha inicializado correctamente.");
+            
         } catch (IOException e) {
             System.out.println("Error al inicializar Firebase: " + e.getMessage());
         }

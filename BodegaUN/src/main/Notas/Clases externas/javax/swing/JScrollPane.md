@@ -1,0 +1,1 @@
+si hay muchos elementos visuales, se puede hacer scroll para verlos todos.

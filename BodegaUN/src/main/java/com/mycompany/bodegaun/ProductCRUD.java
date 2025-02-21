@@ -16,7 +16,7 @@ import java.util.concurrent.ExecutionException;
 public class ProductCRUD {
 
     // =================== CREATE ===================
-    // Crea un nuevo producto en Firebase
+    // Se crea un nuevo producto en Firebase
     public static void createProduct(Producto producto) {
         DatabaseReference databaseRef = FirebaseDatabase.getInstance().getReference();
         // Se crea un nuevo nodo (con un ID único) en "productos"
@@ -68,19 +68,6 @@ public class ProductCRUD {
         return productos;
     }
     
-    // =================== DELETE ===================
-    // Elimina un producto en Firebase usando su ID
-    public static void deleteProduct(String id) {
-        DatabaseReference ref = FirebaseDatabase.getInstance().getReference("productos").child(id);
-        ApiFuture<Void> future = ref.removeValueAsync();
-        try {
-            future.get();
-            System.out.println("Producto eliminado correctamente.");
-        } catch (InterruptedException | ExecutionException e) {
-            System.out.println("Error al eliminar el producto: " + e.getMessage());
-        }
-    }
-    
     // =================== UPDATE ===================
     // Actualiza los datos de un producto en Firebase usando su ID
     public static void updateProduct(String id, Producto updatedProducto) {
@@ -94,4 +81,18 @@ public class ProductCRUD {
             System.out.println("Error al actualizar el producto: " + e.getMessage());
         }
     }
+    
+    // =================== DELETE ===================
+    // Elimina un producto en Firebase usando su ID
+    public static void deleteProduct(String id) {
+        DatabaseReference ref = FirebaseDatabase.getInstance().getReference("productos").child(id);
+        ApiFuture<Void> future = ref.removeValueAsync();
+        try {
+            future.get();
+            System.out.println("Producto eliminado correctamente.");
+        } catch (InterruptedException | ExecutionException e) {
+            System.out.println("Error al eliminar el producto: " + e.getMessage());
+        }
+    }
+    
 }
